@@ -29,8 +29,8 @@ const routes: Array<RouteRecordRaw> = [
 ]
 
 const router = createRouter({
-  // history: createWebHashHistory('/eap-web/'),
-  history: createWebHashHistory(),
+  history: createWebHashHistory('/eap-web/'),
+  // history: createWebHashHistory(),
   routes
 })
 

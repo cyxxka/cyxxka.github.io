@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "author": "CYX",
   "scripts": {
+    "deploy": "deploy.sh",
     "serve": "vite --mode development",
     "dev": " vite",
     "build": "vite build --mode production",

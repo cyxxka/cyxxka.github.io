@@ -1,0 +1,114 @@
+.el-text_wraning {
+  color: red;
+  font-weight: 900;
+}
+
+
+.el-form-item__label,
+.el-text {
+  font-size: 28px;
+  color: black;
+  font-weight: 400;
+}
+.public-card {
+  background-color: #e7e6e6;
+  text-align: center;
+}
+.card-title {
+  color: black;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: var(--el-card-padding);
+  text-decoration: underline;
+  /*font-size: 20px;*/
+  font-size: 23px;
+}
+
+.el-form-item__label, .el-text,.input_size,.container{
+  /*font-size: 18px;*/
+  font-size: 22px;
+}
+.header{
+  font-size: 22px;
+}
+
+.el-form-item__content{
+  align-content: flex-end;
+}
+.el-form-item {
+  margin-bottom: 10px;
+}
+
+
+.card-body .el-form-item {
+  margin-bottom: 0px;
+}
+
+.card-body .el-form-item__label {
+  text-align: left;
+}
+
+.el-form-item__label {
+  align-items: center;
+  height: initial !important;
+  line-height: initial !important;
+}
+
+.card-header,
+.card-title--header {
+  width: 80%;
+  margin: 0 auto;
+
+  min-height: 50px;
+  overflow: auto;
+}
+
+.card-desc {
+  color: #2f5597 !important;
+}
+
+.card-desc.text-red {
+  color: red !important;
+}
+
+
+.dialog-w {
+  min-width: 600px;
+  width: 53rem;
+}
+
+
+.footer {
+  /*width: 480px;*/
+  width: 500px;
+  margin: 0 auto;
+}
+
+
+.workorder_scan .el-button{
+  display: inline-flex !important;
+}
+
+
+.dialog_footer {
+  text-align: center;
+  
+}
+.el-space__item{
+  padding-bottom: 10px !important;
+}
+.el-space--vertical{
+  margin-bottom: 0 !important;
+}
+.dialog-w .el-dialog__header{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.form-item--text .el-form-item__label,
+.el-text {
+  font-size: 18px !important;
+}
+.form-item--text .card-title{
+  font-size: 20px !important;
+}
